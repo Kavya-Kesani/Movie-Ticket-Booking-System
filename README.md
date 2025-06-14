@@ -148,11 +148,18 @@ This project is open-source and free to use for learning and educational purpose
 
 ---
 
-### 🙋‍♀️ Author
+## 🙋‍♀️ Author
 
 **K.Kavya**  
 🎓 Student, SRM University AP  
 💻 Passionate about software development and building useful tools with C++ and web technologies.
+
+---
+
+## 📬 Contact
+
+📧 Connect with me via Gmail: [kavyarambabu232@gmail.com](mailto:kavyarambabu232@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/kavya-kesani-700a51292](https://www.linkedin.com/in/kavya-kesani-700a51292)
 
 ---
 
